@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://118.26.69.213:83/BJBMPiPark_Icon.png</string>
+					<string>http://www.zgcbmi.com.cn/APP/BJBMPiPark_Icon.png</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
@@ -19,7 +19,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://118.26.69.213:83/BJBMPiPark.ipa</string>
+					<string>http://www.zgcbmi.com.cn/APP/BJBMPiPark.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
