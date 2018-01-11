@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bitech.BJBMPiPark.inhouse</string>
 				<key>bundle-version</key>
-				<string>1.1.14</string>
+				<string>1.2.21</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>生融汇</string>
+				<string>精准金服</string>
 			</dict>
 		</dict>
 	</array>
